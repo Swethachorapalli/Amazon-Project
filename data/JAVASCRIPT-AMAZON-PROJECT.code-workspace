@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "JAVASCRIPT-AMAZON-PROJECT",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tests-jasmine.1"
+	}
+}
